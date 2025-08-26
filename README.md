@@ -1,6 +1,6 @@
 # tutalearn-ui-ux
 
-Tutalearn is a learning platform that aims to provide equal learning opportunities for Upper Primary, Junior Secondary and Senior Secondary schools in Kenya. This platform give learners access to learning materials, adaptive learning, AI tutoring and also direct contact and feedback from teachers. It aligns with **Basic Education Curriculum Framework(BECF) 2019. It fully aligns with the Kenya Competency Based Curriculum Model (CBC).
+Tutalearn is a learning platform that aims to provide equal learning opportunities for Upper Primary, Junior Secondary and Senior Secondary schools in Kenya. This platform give learners access to learning materials, adaptive learning, AI tutoring and also direct contact and feedback from teachers. It aligns with **Basic Education Curriculum Framework(BECF) 2019**. It fully aligns with the Kenya Competency Based Curriculum Model (CBC).
 
 ## Features
 
