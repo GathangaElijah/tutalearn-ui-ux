@@ -18,3 +18,5 @@ Tutalearn is a learning platform that aims to provide equal learning opportuniti
 5. Promote critical thinking and problem solving through quizes and real world scenerios.
 6. Foster creativity and imagination.
 
+## [User research document](https://github.com/GathangaElijah/tutalearn-ui-ux/blob/main/Tutalearn_UserResearchDocument_26082025_V1)
+
